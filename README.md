@@ -41,7 +41,22 @@ Install the required NPM packages:
    npm install
    ```
 
+### Running Locally
+To run the project locally, set up a dev server:
+   ```sh
+   npm run dev
+   ```
+To set up a production server instead:
+   ```sh
+   npm run build
+   nodemon dist/index.js
+   ```
+And go to https://localhost:8000. The deployed version can be found at [ledoit.dev](https://ledoit.dev).
 
+
+<!-- HOSTING -->
+## Hosting
+This project is hosted on Github Pages.
 
 <!-- ROADMAP -->
 ## Roadmap
