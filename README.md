@@ -8,27 +8,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url] -->
+<!-- [![Stargazers][stars-shield]][stars-url] -->
+<!-- [![Issues][issues-shield]][issues-url] -->
+[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+Accessible at: [ledoit.dev](https://ledoit.dev)
 
 ### Built With
 
-<!-- * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
 [![Express][Express.js]][Express-url]
-<!-- * [![React][React.js]][React-url] -->
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -61,26 +51,20 @@ Install the required NPM packages:
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/pledoit/ledoit.dev/issues) for a full list of proposed features (and known issues).
-
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - phil.ledoit@gmail.com.com
+Phil Ledoit - phil.ledoit@gmail.com
 
-Project Link: [https://ledoit.dev](https://ledoit.dev)
+Project Link: [ledoit.dev](https://ledoit.dev)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
