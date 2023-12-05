@@ -8,6 +8,9 @@ const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
 const app = (0, express_1.default)();
 const port = process.env.PORT;
+// const path = require('path')
+// app.use('/static', express.static(path.join(__dirname, 'public')))
+app.use('/', express_1.default.static(' '));
 app.get('/', (req, res) => {
     res.send('Express + TypeScript Server WE OUT HERE AND ANOTHER EDIT AND A FINAL ONE? no way we can do another one... but we can!');
 });
